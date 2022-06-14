@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+* {
+    padding: 0%;
+}
+
+body {
+    background-color: rgba(233, 109, 156, 0.884);
+    background-image: url(../img/fondo\ 2.jpg);
+}
+
+p {
+    font-family: 'Koulen', cursive;
+
+}
+
+.pagina {
+    background-color: rgb(92, 91, 91);
+    text-align: center;
+    font-family: 'Koulen', cursive;
+}
+
+header,
+footer {
+    height: 1, 5cm;
+}
+
+nav {
+    background-color: rgb(5, 5, 5);
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+h1 {
+    padding: 15px;
+    border: 10px solid black;
+    padding: 35px;
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+}
+
+img {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.formulario {
+    display: block;
+}
+
+footer {
+    padding: 50px;
+    background-color: rgb(7, 7, 7);
+    margin-top: 50px;
+    margin-bottom: 0;
+}
